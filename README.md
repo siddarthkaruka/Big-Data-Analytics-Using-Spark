@@ -9,4 +9,5 @@ We are delighted to welcome you to the fourth course in the MicroMasters in Data
 
 
 Instructor
+
 Yoav Freund, Professor of Electrical and Computer Engineering, UC San Diego"
