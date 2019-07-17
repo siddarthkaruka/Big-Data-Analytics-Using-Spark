@@ -15,7 +15,6 @@ Yoav Freund, Professor of Electrical and Computer Engineering, UC San Diego
 *Prerequisites:*
 
 The most important prerequisites for this course are:
-
--The ability to program in Python and to use Jupyter notebooks. This can be obtained by taking the course DSE 200x, Python for Data Science.
--Probability and statistics. This can be obtained by taking the course DSE 210x, Probability and Statistics using Python.
--Machine Learning: This can be obtained by taking the course DSE 220x, Machine learning Fundamentals.
+- The ability to program in Python and to use Jupyter notebooks. This can be obtained by taking the course DSE 200x, Python for Data Science.
+- Probability and statistics. This can be obtained by taking the course DSE 210x, Probability and Statistics using Python.
+- Machine Learning: This can be obtained by taking the course DSE 220x, Machine learning Fundamentals.
