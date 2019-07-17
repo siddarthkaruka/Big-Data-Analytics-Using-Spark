@@ -23,7 +23,7 @@ This course has two main goals: The first is introduction to using large scale d
 **Course Outline:**\
 This is a ten-week course.
 
-**Topics:**\
+**Topics:**
 - Memory Hierarchy, latency vs. throughput.
 - Spark Basics
 - Dataframes and SQL
